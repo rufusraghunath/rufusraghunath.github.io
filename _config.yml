@@ -10,7 +10,7 @@ github_username: rufusraghunath
 linkedin_username: rufusraghunath
 paginate: 5
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
