@@ -1,0 +1,24 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-3">
+        <ul class="contact-list">
+            {% if site.title %}
+              <li><h4>&copy;2017 &middot; {{ site.title }}</h4></li>
+            {% endif %}
+            {% if site.email %}
+              <li><a href="mailto:{{ site.email }}">{% include icon-email.html %}{{ site.email }}</a></li>
+            {% endif %}
+            {% if site.github_username %}
+              <li>{% include icon-github.html username=site.github_username %}</li>
+            {% endif %}
+            {% if site.linkedin_username %}
+              <li>{% include icon-linkedin.html username=site.linkedin_username %}</li>
+            {% endif %}
+            <li class="rss-subscribe">{% include icon-rss.html %}</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
