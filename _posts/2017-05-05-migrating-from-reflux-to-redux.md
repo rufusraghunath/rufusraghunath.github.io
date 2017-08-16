@@ -1,7 +1,7 @@
 Migrating from Reflux to Redux
 ==============
 
-I recently helped my team move a large codebase from [Reflux](https://github.com/reflux/refluxjs) to [Redux](http://redux.js.org/). Both are JavaScript-based state-management tools. This was an interesting technical challenge, and a fun one.
+I recently helped my team move a large codebase from [Reflux](https://github.com/reflux/refluxjs) to [Redux](http://redux.js.org/) (I have written exensively about my experience on [ThoughtWorks' <i>Insights</i> blog](https://www.thoughtworks.com/insights/blog/advocating-software-quality-metro)). Both are JavaScript-based state-management tools. This was an interesting technical challenge, and a fun one.
 
 Because Reflux and Redux both follow the basic [Flux](https://github.com/facebook/flux) architecture pattern of unidirectional data flow, we can incrementally take over the Reflux state cycle with Redux:
 
