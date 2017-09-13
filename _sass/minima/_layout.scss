@@ -74,7 +74,7 @@ $icon-size: 100px;
     line-height: $base-line-height;
 
     &:hover {
-      text-decoration: underline;      
+      text-decoration: underline;
     }
 
     // Gaps between nav items, but not on the last one
@@ -231,6 +231,11 @@ $icon-size: 100px;
  */
 .page-content {
   padding: $spacing-unit 0;
+
+
+  & a {
+    font-weight: bold;
+  }
 }
 
 .page-heading {
