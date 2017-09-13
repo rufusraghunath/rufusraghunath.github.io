@@ -24,7 +24,7 @@ In this talk, Borins described his involvement with the ECMAScript Technical Com
 <h3>Best Practices for Reusable UI Components</h3>
 *[Mars Jullian](https://github.com/marsjosephine) (Netflix)*
 
-Netflix is apparently betting heavily on UI component libraries that can be shared and reused between teams. Julian had a key role in developing their approach to this, and she kindly shared her key takeaways:
+Netflix is apparently betting heavily on UI component libraries that can be shared and reused between teams. Jullian had a key role in developing their approach to this, and she kindly shared her key takeaways:
 
 - Use React for your libraries. It’s easier to repurpose for other frameworks than vice-versa.
 - Your component should physically begin at its visible edge (i.e. no margin or border, potentially no padding)
