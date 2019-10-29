@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: ls -l
+title: Archive
 permalink: /archive/
 ---
