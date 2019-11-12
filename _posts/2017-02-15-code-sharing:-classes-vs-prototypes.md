@@ -1,7 +1,7 @@
 Code Sharing: Classes vs. Prototypes
 ===========
 
-I originally wrote this article for students at <a href="http://www.codefirstgirls.org.uk/">Code First: Girls</a> London. You may find it useful if you are interested in prototypal inheritance and JavaScript in general, and have some experience with classial inheritance. The article assumes some Ruby knowledge, but experience in any classical language (Java, C#, etc.) should translate well.
+I originally wrote this article for students at <a href="http://www.codefirstgirls.org.uk/">Code First: Girls</a> London. You may find it useful if you are interested in prototypal inheritance and JavaScript in general, and have some experience with classical inheritance. The article assumes some Ruby knowledge, but experience in any classical language (Java, C#, etc.) should translate well.
 
 Introduction
 ---------
@@ -124,7 +124,7 @@ spot.methods.include? :walk
 
 The beauty of this design is that we can now create as many other kinds of animals as we like, and they'll all be able to walk! And there you have it, the basics of classical inheritance.
 
-"Classes" in JS >= ES6
+"Classes" in JS > ES6
 ---------
 As mentioned before, there is now a `class` keyword in JS. So you can now write things like this:
 
@@ -165,7 +165,7 @@ The idea here is that when `new ExampleComponent()` gets called, `constructor` r
 
 All seems pretty familiar, doesn't it? Still, it's important to remember that this is _not_ the same as `class` in Ruby. In fact, it's just a thin layer of syntactic sugar around the way people used to write fake classes in JS back in the day, before ES6 was a thing. That means that when you write a class in ES6, what you actually get is...
 
-"Classes" in JS < ES6
+"Classes" in JS =< ES6
 ---------
 You might already be aware that Javascript has first-class functions – you can pass functions around like variables and then use them whenever you like. You can also define _constructor functions_ that can be used with the `new` keyword (but you have to use the `function` keyword rather than using the new ES6 arrow functions).
 
