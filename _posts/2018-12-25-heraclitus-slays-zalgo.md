@@ -1,4 +1,8 @@
-# Heraclitus Slays Zalgo
+---
+title: "Speaking at Full Stack Fest 2018: Heraclitus Slays Zalgo"
+---
+
+# Speaking at Full Stack Fest 2018: Heraclitus Slays Zalgo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C3GvXp4Detk?start=1572" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 

@@ -1,4 +1,8 @@
-# Evolutionary UI: Change as a first-class citizen in the modern frontend world
+---
+title: "Speaking at JSDay 2019: Evolutionary UI"
+---
+
+# Speaking at JSDay 2019: Evolutionary UI
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5915WUFazjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
