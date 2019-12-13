@@ -4,7 +4,7 @@
 
 This year, I was fortunate enough to speak at the [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture) in Berlin. Together with [Giamir Buoncristiani](https://giamir.com), I showed how the principles of [Evolutionary Architecture](https://evolutionaryarchitecture.com/) can be applied to UI development to create what we call _Evolutionary UI_. We relied heavily on our experience leading the ThoughtWorks Frontend Community in preparing this material, which allowed us to incorporate not only our own observations, but the learnigs of hundreds of our colleagues worldwide. We presented a significantly reworked and improved version of this talk, which we previously gave at JSDay.
 
-Thanks to [Neal Ford](nealford.com) and the ThoughtWorks Frontend Community for their kind feedback on our work.
+Thanks to [Neal Ford](http://nealford.com) and the ThoughtWorks Frontend Community for their kind feedback on our work.
 
 ## ABSTRACT
 
