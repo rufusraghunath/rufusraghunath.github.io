@@ -4,7 +4,7 @@ title: "Speaking at JSDay 2019: Evolutionary UI"
 
 # Speaking at JSDay 2019: Evolutionary UI
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5915WUFazjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe src="https://www.youtube.com/embed/5915WUFazjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 I recently had the pleasure of speaking at [JSDay 2019](https://2019.jsday.it/) with my friend and colleague [Giamir Buoncristiani](https://giamir.com), with whom I co-lead the ThoughtWorks Frontend Community.
 

@@ -4,7 +4,7 @@ title: "Speaking at Full Stack Fest 2018: Heraclitus Slays Zalgo"
 
 # Speaking at Full Stack Fest 2018: Heraclitus Slays Zalgo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3GvXp4Detk?start=1572" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe src="https://www.youtube.com/embed/C3GvXp4Detk?start=1572" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 This is a 5-minute lightning talk I gave at [Fullstack Fest 2018](https://www.youtube.com/playlist?list=PLe9psSNJBf75O6abYvvjxhm36_QU9H-f2), which combines my trademark uneducated armchair philosphy with some JS jargon.
 
