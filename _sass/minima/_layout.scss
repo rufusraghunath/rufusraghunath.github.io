@@ -3,20 +3,25 @@
  */
 .site-header {
   padding-top: 20px;
-  padding-bottom: 70px;
+  padding-bottom: 60px;
   @include media-query($on-palm) {
     padding-bottom: 20px;
   }
+  margin-bottom: 20px;
   min-height: $spacing-unit * 1.865;
   position: relative;
-  background-color: $grey-color-light;
+  background-color: $mustard;
+
+  h1 {
+    font-weight: bold;
+  }
 }
 
 .header-link {
-  color: $grey-color-dark;
+  color: $text-color;
 
   &:hover {
-    text-decoration: none;
+    color: $text-color;
   }
 }
 
@@ -31,7 +36,8 @@ $icon-size: 100px;
   }
 }
 
-.rufus-icon, .header-text {
+.rufus-icon,
+.header-text {
   vertical-align: top;
   display: inline-block;
 }
@@ -62,7 +68,7 @@ $icon-size: 100px;
   }
 
   .nav-trigger {
-      display: none;
+    display: none;
   }
 
   .menu-icon {
@@ -155,7 +161,6 @@ $icon-size: 100px;
   color: $grey-color-dark;
 }
 
-
 /**
  * Site footer
  */
@@ -190,29 +195,29 @@ $icon-size: 100px;
 
 .footer-col-1 {
   width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
+  width: calc(35% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
   width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2));
+  width: calc(20% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
   width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
+  width: calc(45% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
   .footer-col-1,
   .footer-col-2 {
     width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
+    width: calc(50% - (#{$spacing-unit} / 2));
   }
 
   .footer-col-3 {
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
+    width: calc(100% - (#{$spacing-unit} / 2));
   }
 }
 
@@ -220,11 +225,9 @@ $icon-size: 100px;
   .footer-col {
     float: none;
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
+    width: calc(100% - (#{$spacing-unit} / 2));
   }
 }
-
-
 
 /**
  * Page content
@@ -232,9 +235,8 @@ $icon-size: 100px;
 .page-content {
   padding: $spacing-unit 0;
 
-
   & a {
-    font-weight: bold;
+    font-weight: 500;
   }
 }
 
@@ -319,4 +321,23 @@ $icon-size: 100px;
 
 .rss-text {
   padding-left: 2px;
+}
+
+/**
+ * About
+ */
+
+.about-section {
+  display: flex;
+  flex-wrap: wrap-reverse;
+
+  .profile {
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  .bio {
+    width: 400px;
+    margin-bottom: 10px;
+  }
 }
