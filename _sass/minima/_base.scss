@@ -33,6 +33,9 @@ h3 {
 }
 
 body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
   font: $base-font-weight #{$base-font-size}/#{$base-line-height}
     $base-font-family;
   color: $text-color;
@@ -43,6 +46,10 @@ body {
   -o-font-feature-settings: "kern" 1;
   font-feature-settings: "kern" 1;
   font-kerning: normal;
+}
+
+main {
+  flex-grow: 1;
 }
 
 /**

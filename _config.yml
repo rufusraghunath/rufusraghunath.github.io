@@ -8,7 +8,7 @@ base_url: ""
 github_username: rufusraghunath
 twitter_username: rufusraghunath
 linkedin_username: rufusraghunath
-paginate: 5
+paginate: 3
 markdown: kramdown
 plugins:
   - jekyll-feed
