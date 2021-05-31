@@ -1,8 +1,8 @@
 ---
-title: "Speaking at O'Reilly SACON 2019: Evolutionary UI"
+title: "Evolutionary UI: Change as a first-class citizen in the modern frontend world"
 ---
 
-# Speaking at O'Reilly SACON 2019: Evolutionary UI
+# Evolutionary UI: Change as a first-class citizen in the modern frontend world
 
 <iframe src="https://www.youtube.com/embed/QNRv-KyhVK0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
@@ -11,9 +11,6 @@ This year, I was fortunate enough to speak at the [O'Reilly Software Architectur
 Thanks to [Neal Ford](http://nealford.com) and the ThoughtWorks Frontend Community for their kind feedback on our work.<br/><br/>
 
 ## ABSTRACT
-
-**Evolutionary UI: Change as a first-class citizen in the modern frontend world**<br />
-_By Rufus Raghunath & Giamir Buoncristiani_
 
 Allowing for change is especially important when designing your frontend applications, where ever higher user expectations meet the fast-paced JavaScript ecosystem.
 
