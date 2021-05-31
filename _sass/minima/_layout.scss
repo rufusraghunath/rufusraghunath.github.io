@@ -2,8 +2,11 @@
  * Site header
  */
 .site-header {
+  display: flex;
+  justify-content: center;
   padding-top: 20px;
   padding-bottom: 60px;
+
   @include media-query($on-palm) {
     padding-bottom: 20px;
   }
@@ -25,18 +28,6 @@
   }
 }
 
-$icon-size: 100px;
-.rufus-icon {
-  height: $icon-size;
-  width: $icon-size;
-  border-radius: 10px;
-  margin-right: 10px;
-  @include media-query($on-palm) {
-    display: none !important;
-  }
-}
-
-.rufus-icon,
 .header-text {
   vertical-align: top;
   display: inline-block;
@@ -165,6 +156,8 @@ $icon-size: 100px;
  * Site footer
  */
 .site-footer {
+  display: flex;
+  justify-content: center;
   border-top: 1px solid $grey-color-light;
   padding-top: $spacing-unit;
 }
@@ -231,6 +224,8 @@ $icon-size: 100px;
  * Page content
  */
 .page-content {
+  display: flex;
+  justify-content: center;
   padding: $spacing-unit 0;
 
   & a {
