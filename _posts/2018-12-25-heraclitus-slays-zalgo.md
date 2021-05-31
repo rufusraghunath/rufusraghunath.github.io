@@ -1,8 +1,8 @@
 ---
-title: "Heraclitus Slays Zalgo"
+title: "On Asynchronicity: Heraclitus slays Zalgo"
 ---
 
-# Heraclitus Slays Zalgo
+# On Asynchronicity: Heraclitus slays Zalgo
 
 <iframe src="https://www.youtube.com/embed/C3GvXp4Detk?start=1572" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
