@@ -1,8 +1,8 @@
 ---
-title: "Introducing Kelda.js: A thread pool for the browser, built on top of Web Workers"
+title: "Introducing Kelda.js: A threadpool for the browser, built on top of Web Workers"
 ---
 
-# Introducing Kelda.js: A thread pool for the browser, built on top of Web Workers
+# Introducing Kelda.js: A threadpool for the browser, built on top of Web Workers
 
 <iframe src="https://www.youtube.com/embed/IMo0K22IRAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
