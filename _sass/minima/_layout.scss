@@ -328,6 +328,7 @@ $icon-size: 100px;
 .about-section {
   display: flex;
   flex-wrap: wrap-reverse;
+  align-items: start;
 
   .profile {
     height: 300px;
