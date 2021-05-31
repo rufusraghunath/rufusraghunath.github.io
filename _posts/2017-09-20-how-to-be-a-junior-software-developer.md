@@ -1,20 +1,20 @@
-How to Be a Junior Software Developer
-===========
+---
+title: "How to Be a Junior Software Developer"
+---
+
+# How to Be a Junior Software Developer
 
 _This article was [originally published](https://www.thoughtworks.com/insights/blog/how-be-junior-software-developer) on [ThoughtWorks Insights](https://www.thoughtworks.com/insights)._
 
-Introduction
----------
+## Introduction
 
 In my time as a junior at ThoughtWorks, I was blessed to have opportunities to grow and develop my skills on several interesting projects, with the help of some amazing people. In this article, I want to share the strategy I used to maximize my professional development. If you’re in a similar position, I hope this will help you make your first steps into tech successful. If you’re a senior or team lead, I hope that this will help you to support juniors in growing and becoming productive. If you’re a company, I hope that this will provide some context for how to hire and staff junior developers.
 
-Learning to learn
----------
+## Learning to learn
 
 I think it’s important to realize that, as a junior, your main value to an employer is most likely your potential, not your current ability. ThoughtWorks certainly didn’t hire me because they thought my technical interview solution should be pushed to production anywhere. So rather than focusing on delivering software 100% of the time, focus on up-skilling. Practice self-reflection and seek feedback to identify your weaknesses. Use whatever resources are available to you to improve your knowledge and skill set. Ask for help from seniors, ask for code reviews, pair program. Understand the context in which you are working - talk to business analysts, QAs, stakeholders, ask questions. Don’t stop moving, cultivate a humble 'always learning' attitude. Gain perspective on alternative ways to do things.
 
 Learning itself is a skill that can be developed. I did not join ThoughtWorks with a particularly broad range of technical skills, and so, every project I joined brought a panic-inducing flood of new programming languages, new tools, new frameworks, and new concepts crashing down on me (and that’s not even mentioning business-related skills). These are the moments when [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) is at its strongest and undermines your self-belief the most. After a while, though, you begin to spot the pattern. It goes something like this:
-
 
 1. Enthusiasm
 2. Bafflement
@@ -27,8 +27,7 @@ Stage 3 is the most dangerous since in it you’re unaware of your own failure t
 
 Once you’ve gone through this cycle a few times and ended up able to ship respectable production code in a new technology, you develop a 'can do' attitude towards learning. You become confident in your ability to pick up new things quickly and start to enjoy it. And, more importantly, you can make a plausible, evidence-based case for this to business stakeholders when needed. I have found that even senior developers sometimes end up lacking this panache because their roles have been too one-sided and have not required them to stretch. So, continuously extract yourself from your comfort zone and put yourself in the situation of having to learn new things - this experience will become your primary advantage as a junior developer, particularly if you work as a consultant. Set the tone for the rest of your career.
 
-Adding value as a junior
----------
+## Adding value as a junior
 
 Learning is all very well, but at some point, you need to get into the grind and rhythm of delivering software. Apart from your daily work, which will probably involve small and de-risked chunks of responsibility, I strongly recommend that you seek out independent areas in which you can add value to your team and turn them into pet projects.
 
@@ -41,8 +40,7 @@ In both cases, I needed time to learn and become productive. By identifying thin
 
 There is always some extra utility to produce or something to refactor. While pursuing pet projects is particularly helpful for your development and team relationships as a junior, it’s a habit that I’ll continue to cultivate. It’s just so fun!
 
-Choosing pet projects
----------
+## Choosing pet projects
 
 Sadly, there’s no such thing as a free lunch. Like everything, the utility of pet projects comes at a cost. You may be uncertain or confused about where to start. You may not feel supported, or you may feel pressured to deliver functionality. You might be worried about the extra time, work, and effort required.
 
@@ -58,8 +56,7 @@ Moreover, embrace both failure and ignorance. Suspend your disbelief that it wil
 
 And, of course, give yourself time off as well. Taking on pet projects is helpful and fun, but the expectation certainly shouldn’t be that you have to put in extra work beyond what you’re paid to do. Choose to do so when it makes sense for you, and when you have the space for it in your life. You can also speak to your team to see if they'll allow you time to work on pet projects within work hours, which is definitely possible if there’s a clear value-add.
 
-Conclusion
----------
+## Conclusion
 
 One of the key tenets of the [Agile Manifesto](http://agilemanifesto.org/) is to prefer 'responding to change over following a plan'. Continuous Improvement, Continuous Delivery. Produce a version of the product, observe its shortcomings, collect feedback, reassess requirements, produce the next version. Iterate in small chunks, never impose a grand vision based on outdated information. As a junior developer, it's useful to think of yourself in the same way.
 
