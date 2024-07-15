@@ -5,7 +5,6 @@ tagline: 'Where “build the right thing” meets “build the thing right”'
 description: 'Where “build the right thing” meets “build the thing right”'
 base_url: ""
 github_username: rufusraghunath
-twitter_username: rufusraghunath
 linkedin_username: rufusraghunath
 paginate: 3
 markdown: kramdown
